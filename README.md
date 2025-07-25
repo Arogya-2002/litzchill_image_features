@@ -351,7 +351,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Various AI research communities for the face swapping and style transfer models
 
 ---
-
+## Download the weights from
+```bash
+https://drive.google.com/drive/folders/1_Mtosgk1Kpi_Qvvun1SoQkOcLgpa-F85?usp=sharing
+```
 ---
 
 ⭐ **Star this repository if you found it helpful!**
