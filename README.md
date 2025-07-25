@@ -80,7 +80,7 @@ A comprehensive image processing service built with Python and FastAPI that prov
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Arogya-2002/litzchill_image_features.git
-   cd BG_add_-_remove
+   cd litzchill_image_features
    ```
 
 2. **Set up virtual environment** (recommended)
