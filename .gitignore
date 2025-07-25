@@ -1,0 +1,5 @@
+weights/
+artifacts/
+__pycache__/
+logs/
+temp_uploads/
