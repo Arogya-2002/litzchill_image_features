@@ -1,0 +1,29 @@
+#for removing bg dependencies
+rembg 
+onnxruntime
+pillow
+uvicorn
+fastapi
+python-multipart
+
+#for upscale dependecies
+transformers
+torch
+numpy
+requests
+
+
+#for faceswap dependencies
+insightface
+opencv-python
+matplotlib
+
+
+#for meme_style_changer
+imutils
+dlib
+tqdm
+
+
+#for inpaint dependencies
+torchvision
