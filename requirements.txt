@@ -16,7 +16,6 @@ requests
 #for faceswap dependencies
 insightface
 opencv-python
-matplotlib
 
 
 #for meme_style_changer
